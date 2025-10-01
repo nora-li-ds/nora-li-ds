@@ -38,7 +38,8 @@ This journey reflects my continuing interest in linking rigorous data science me
 - **[Agent-Based Modelling for Scam Spread](https://github.com/nora-li-ds/Agent-Based-Modelling-for-Scam-Spread)**  
   *Goal:* Simulate how online scams spread through social/communication networks.  
   *Skills:* Agent-based modelling (Mesa), rule design, diffusion dynamics, scenario testing.  
-  *Current status:* Prototype agents and basic diffusion implemented.  
+  *Current status:* Project at concept stage — agents and diffusion rules planned, not yet functional.
+ 
   *Next:* Integrate ML/GNN-derived risk scores into ABM to test intervention policies.  
 
 ---
