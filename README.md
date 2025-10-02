@@ -66,8 +66,11 @@ This profile documents an ongoing research path that combines technical modellin
 - **[Wildfire Prediction](https://github.com/nora-li-ds/ads-wildfire-thomas)** (group project)  
   Contributed to model development and reporting. The project combined environmental data with ML pipelines to assess wildfire risk.  
 
-- **[Advanced Programming – Huffman Coding](https://github.com/nora-li-ds/advanced-programming-group-huffman)**  
-  Implemented Huffman coding algorithms as part of advanced programming coursework, focusing on data structures and algorithm optimisation.
+- **[Advanced Programming – Huffman Group Project](https://github.com/nora-li-ds/advanced-programming-group-huffman)** (group project)  
+  Developed in C++17 with a 5-person team. Implemented 2D and 3D image processing functions (blur, edge detection, projections, slicing), with a simple GUI and full unit testing.  
+  My contribution focused on filter implementation and part of documentation.  
+  This project strengthened my low-level programming and software engineering skills (testing, modular design, documentation).
+
 ---
 
 ## Contact
