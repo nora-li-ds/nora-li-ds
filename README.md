@@ -53,23 +53,24 @@ This profile documents an ongoing research path that combines technical modellin
 
 ---
 
-## 🗂 Other Projects (Coursework & Teamwork)
+## 🗂 Other Projects (Coursework & Team Projects – Technical Training)
 
 - **[Deep Learning Coursework](https://github.com/nora-li-ds/dl-assessment-1-edsml-xl522)**  
-  Explored CNNs, VAEs, and CGANs during my MSc at Imperial.  
-  Focused on image classification and generative modelling, gaining experience with PyTorch and experimental design.
+  MSc assignment exploring **CNNs, VAEs, and CGANs** for image classification and generative modelling.  
+  *Skills gained:* PyTorch, experimental design, deep learning implementation.
 
 - **[Flood Risk Prediction Tool](https://github.com/nora-li-ds/ads-deluge-Avon)** (group project)  
-  Built in a 7-person team. My contribution focused on **data visualisation** (flood risk maps, rainfall vs tide plots).  
-  The project integrated ML models (XGBoost, Random Forest, KNN) into a Python package with automated testing.
+  7-person team project integrating ML models (XGBoost, RF, KNN) into a Python package with automated testing.  
+  My contribution: **data visualisation** (risk maps, rainfall vs tide plots).  
+  *Skills gained:* geospatial data viz, Python packaging, teamwork.
 
 - **[Wildfire Prediction](https://github.com/nora-li-ds/ads-wildfire-thomas)** (group project)  
-  Contributed to model development and reporting. The project combined environmental data with ML pipelines to assess wildfire risk.  
+  Applied **RNNs** for sequence prediction and **VAEs** as generative models, with data assimilation of simulations and satellite data.  
+  *Skills gained:* time-series modelling, generative AI, data assimilation.
 
-- **[Advanced Programming – Huffman Group Project](https://github.com/nora-li-ds/advanced-programming-group-huffman)** (group project)  
-  Developed in C++17 with a 5-person team. Implemented 2D and 3D image processing functions (blur, edge detection, projections, slicing), with a simple GUI and full unit testing.  
-  My contribution focused on filter implementation and part of documentation.  
-  This project strengthened my low-level programming and software engineering skills (testing, modular design, documentation).
+- **[Advanced Programming – Huffman](https://github.com/nora-li-ds/advanced-programming-group-huffman)** (group project)  
+  C++17 project implementing 2D/3D image processing (blur, edge detection, projections, slicing), with GUI and full unit testing.  
+  *Skills gained:* C++ programming, modular design, software testing.
 
 ---
 
