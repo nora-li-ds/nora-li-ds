@@ -53,6 +53,23 @@ This profile documents an ongoing research path that combines technical modellin
 
 ---
 
+## 🗂 Other Projects (Coursework & Teamwork)
+
+- **[Deep Learning Coursework](https://github.com/nora-li-ds/dl-assessment-1-edsml-xl522)**  
+  Explored CNNs, VAEs, and CGANs during my MSc at Imperial.  
+  Focused on image classification and generative modelling, gaining experience with PyTorch and experimental design.
+
+- **[Flood Risk Prediction Tool](https://github.com/nora-li-ds/ads-deluge-Avon)** (group project)  
+  Built in a 7-person team. My contribution focused on **data visualisation** (flood risk maps, rainfall vs tide plots).  
+  The project integrated ML models (XGBoost, Random Forest, KNN) into a Python package with automated testing.
+
+- **[Wildfire Prediction](https://github.com/nora-li-ds/ads-wildfire-thomas)** (group project)  
+  Contributed to model development and reporting. The project combined environmental data with ML pipelines to assess wildfire risk.  
+
+- **[Advanced Programming – Huffman Coding](https://github.com/nora-li-ds/advanced-programming-group-huffman)**  
+  Implemented Huffman coding algorithms as part of advanced programming coursework, focusing on data structures and algorithm optimisation.
+---
+
 ## Contact
 - Location: London, UK  
 - GitHub: [nora-li-ds](https://github.com/nora-li-ds)  
