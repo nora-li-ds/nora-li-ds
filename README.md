@@ -1,6 +1,6 @@
 # Hi, I’m Nora (｡•̀ᴗ-)✧
 
-I combine data science and crime science to study financial crime and online fraud, using methods such as graph learning and agent-based modelling to improve detection and prevention.
+I combine data science and crime science to study financial crime and online fraud, using methods such as graph learning and agent-based modelling to improve detection and prevention. I am currently exploring how computational models can support threat assessment and the understanding of online risks.
 
 🎓 MSc Crime Science with Data Science @ UCL  
 🎓 MSc Environmental Data Science & Machine Learning @ Imperial College London  
