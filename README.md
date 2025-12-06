@@ -21,6 +21,7 @@ Using transaction networks, risk propagation models, and GNNs.
 
 · Computational risk assessment
 NLP, anomaly detection, and temporal models for early-warning indicators.
+
 ---
 
 ## Academic Journey
