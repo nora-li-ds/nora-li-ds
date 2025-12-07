@@ -1,9 +1,9 @@
 # Hi, I’m Nora (｡•̀ᴗ-)✧
 
-I study how harmful online behaviours escalate into real-world economic harm.
-My work combines NLP, network science, and agent-based modelling to analyse financial crime, online fraud, and cryptocurrency laundering pathways.
+I work at the intersection of data science, security, and financial crime analytics.
+My current focus is understanding how harmful online behaviours evolve, propagate, and translate into measurable financial risks, using NLP, network science and agent-based modelling.
 
-I am currently exploring how online scam escalation signals correspond to on-chain laundering flows, and how computational models can support threat assessment.
+My broader goal is to develop computational tools that support fraud detection, AML risk assessment, and platform safety.
 
 🎓 MSc Crime Science with Data Science @ UCL  
 🎓 MSc Environmental Data Science & Machine Learning @ Imperial College London  
