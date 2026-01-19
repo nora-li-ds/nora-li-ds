@@ -34,15 +34,17 @@ My goal is to bridge the gap between **Complex Algorithms** and **Legal Evidence
 
 ---
 
-### 🗂️ Technical Toolkit
-* **Programming:** Python (PyTorch, PyG, Scikit-learn), C++17, R.
-* **Data Engineering:** SQL (BigQuery, PostgreSQL), Data Wrangling.
-* **Forensics:** Network Analysis, Transaction Tracing, AML/KYC logic.
-* **Certifications:** ACAMS Candidate (Expected April 2026).
+
+### 🗂️ Technical Focus
+* **Programming:** Python (Core libraries for Data Science; exploring PyTorch & PyG), R (Statistical analysis).
+* **Data Tools:** SQL (Basic BigQuery & PostgreSQL), Data Cleaning and Wrangling.
+* **Applied Science:** Network Analysis basics, Transaction Tracing (University coursework), and Learning AML/KYC logic.
+* **Professional Development:** Preparing for ACAMS (Exam planned for mid 2026).
+
 
 ---
 
 ### 📫 Contact
 * **Location:** London, UK
 * **Interests:** FinCrime Analytics, Crypto Forensics, Causal Inference.
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** www.linkedin.com/in/xinnuoli-profile
