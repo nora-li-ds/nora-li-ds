@@ -1,7 +1,7 @@
 # Hi, I’m Nora (Xinnuo) Li (｡•̀ᴗ-)✧
 
 I work at the intersection of **Data Science**, **Financial Crime**, and **Forensic Analytics**.  
-Right now, I’m focused on a practical gap in crypto compliance: moving beyond black-box **risk scores** toward **auditable, regulator-friendly signals** — i.e., *why a pattern matters, what would change under a counterfactual scenario, and how to document decisions in regulated environments (MiCA).*  
+Right now I’m focused on a practical gap in crypto compliance: moving beyond black-box **risk scores** toward **auditable, regulator-friendly signals** — *what the signal means, what changes under a counterfactual stress, and how to document decisions in regulated settings (MiCA-aligned).*  
 
 🎓 **MSc Crime Science with Data Science** @ UCL (2025–2026)  
 🎓 **MSc Environmental Data Science & Machine Learning** @ Imperial College London  
@@ -9,59 +9,42 @@ Right now, I’m focused on a practical gap in crypto compliance: moving beyond 
 
 ---
 
-## 🛡️ Current Research Focus (2026)
+## 🛡️ Current Focus (2026)
 
-- **Crypto / Stablecoin Compliance (MiCA-aligned):** designing monitoring logic that can support **explanation + audit trails**, not just alerts.  
-- **Causal ML for Forensics:** using **causal stress testing**, robustness checks, and counterfactual reasoning to produce reviewable signals.  
-- **Graph + Network Analytics:** applying graph methods to transaction networks and typologies, while being careful about attribution and label scarcity.
+- **Crypto / Stablecoin Compliance (MiCA-aligned):** monitoring logic that supports **explanation + audit trails**, not just alerts.  
+- **Causal/Stress-Testing for Forensics:** robustness checks and counterfactual reasoning to produce **reviewable** signals.  
+- **Graph + Network Analytics:** transaction-network methods, with care around attribution and label scarcity.
 
 ---
 
-## ⭐ Flagship Project (MSc Dissertation Direction)
+## ⭐ Flagship Project
 
 ### **Causal Stress Testing for Stablecoin Monitoring (Ethereum)**
-**Goal:** build a *white-box* metric that helps distinguish **market-driven urgency** (e.g., arbitrage/hedging) from behaviour **consistent with non-market constraints** (e.g., enforcement-driven urgency), without making definitive claims about illegality.
+**Goal:** develop a *white-box* metric that separates **fee-sensitive, market-driven activity** (e.g., arbitrage/hedging) from activity that appears **less fee-elastic** and potentially driven by **non-market constraints** — **without** making claims about illegality.
 
-**Core idea:** within **stable market regimes**, transaction costs can spike (gas fees).  
-Profit-driven actors typically slow down when costs rise; some entities remain unusually **cost-rigid**.  
-I measure **cost sensitivity / rigidity (elasticity)** as an interpretable signal designed to support **escalation + audit narratives** and complement black-box graph models.
-
-**Planned pipeline (work in progress):**
-- Dune SQL extraction for USDC/USDT redemption-related on-chain signals
-- regime filtering (reduce confounding from market stress)
-- entity aggregation / clustering + sensitivity analysis
-- elasticity/rigidity estimation + robustness tests
-- positive–unlabeled (PU) evaluation using sanctions/heist positives (without treating others as “clean”)
+**Core idea:** within relatively stable regimes, transaction costs can spike (gas).  
+Profit-driven actors tend to slow down when costs rise; some entities remain unusually **cost-rigid**.  
+I quantify **cost sensitivity / rigidity (elasticity)** as an interpretable signal to support **escalation + audit narratives**, complementing black-box graph models.
 
 ---
 
 ## 🧪 Research Prototypes
 
-### **[Elliptic AML Analysis](https://github.com/nora-li-ds/elliptic-aml-analysis)**
-- *Goal:* classify illicit Bitcoin transactions on the Elliptic dataset and understand error patterns.
-- *Status:* baseline ML (LogReg, RF, XGBoost) completed.
-- *Next:* GraphSAGE baseline + analysis of false positives + interpretable signals for investigation workflows.
+### **Elliptic AML Analysis**
+🔗 https://github.com/nora-li-ds/elliptic-aml-analysis  
+- baseline ML (LogReg, RF, XGBoost) + error analysis  
+- next: GraphSAGE baseline + interpretable signals for investigation workflows
 
-### **Strategic Risk & Intervention Modelling (planned)**
-- *Goal:* evaluate intervention policies (e.g., friction, throttling, freezing) using scenario-based simulation.
-- *Approach:* link risk signals to dynamic models to study attacker adaptation and network resilience.
+## 🗂️ Selected Coursework & Team Projects
 
----
-
-## 🎓 Academic Journey (selected)
-
-- **BSc Statistics (Lancaster):** probability, inference, statistical modelling.
-- **MSc EDSML (Imperial):** deep learning + data engineering; experience with high-dimensional data and model evaluation.
-- **MSc Crime Science (UCL):** cybercrime, crime prevention, research design, and translating quantitative methods into real security / compliance problems.
-
----
-
-## 🗂️ Technical Training (Coursework & Team Projects)
-
-- **[Deep Learning Frameworks](https://github.com/nora-li-ds/dl-assessment-1-edsml-xl522)**: CNNs, VAEs, generative modelling (PyTorch).
-- **[Flood Risk Prediction Tool](https://github.com/nora-li-ds/ads-deluge-Avon)**: group project; packaged ML pipeline (XGBoost/KNN) + testing + geospatial visualisation.
-- **[Wildfire Prediction](https://github.com/nora-li-ds/ads-wildfire-thomas)**: sequence modelling (RNN) with satellite-driven signals.
-- **[Advanced Programming – C++17](https://github.com/nora-li-ds/advanced-programming-group-huffman)**: modular algorithms + unit testing (3D image processing).
+- Deep Learning Frameworks: CNNs, VAEs, generative modelling (PyTorch)  
+  https://github.com/nora-li-ds/dl-assessment-1-edsml-xl522  
+- Flood Risk Prediction Tool: packaged ML pipeline + testing + geospatial visualisation  
+  https://github.com/nora-li-ds/ads-deluge-Avon  
+- Wildfire Prediction: sequence modelling (RNN) with satellite-driven signals  
+  https://github.com/nora-li-ds/ads-wildfire-thomas  
+- Advanced Programming (C++17): modular algorithms + unit testing (3D image processing)  
+  https://github.com/nora-li-ds/advanced-programming-group-huffman  
 
 ---
 
@@ -73,5 +56,5 @@ Interests: **FinCrime analytics**, **blockchain forensics**, **causal reasoning*
 
 ### 📫 Contact
 - **Location:** London, UK  
-- **GitHub:** [nora-li-ds](https://github.com/nora-li-ds)  
-- **Certification:** ACAMS candidate (planned 2026)  
+- **GitHub:** https://github.com/nora-li-ds  
+- **Certification:** ACAMS candidate (planned 2026)
